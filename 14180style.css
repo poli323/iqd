@@ -132,7 +132,7 @@ a {
 }
 
 #check:checked + .check-wrap {
-    background-image: url("gr.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/poli323/iqd@main/gr.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     border: none;
